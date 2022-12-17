@@ -14,6 +14,14 @@ O site tem como objetivo ser um espaço dedicado para artigos traduzidos sobre e
 * CSS modules
 * eslint
 
+### Páginas/rotas
+
+* / - Página inicial com descrição do projeto
+* /artigos - Página para artigos traduzidos e por pessoas trans
+* /comunidades - Página com links para comunidades trans e espaços seguros
+* /guias - Página para links de guias externos e próprios relacionados a experiência trans
+* /sobre - Página com mais informações do projeto
+
 ### Aprendizados
 
 * design mobile first e prototipagem de um projeto
